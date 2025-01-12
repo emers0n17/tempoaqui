@@ -94,7 +94,6 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 
 **emers0n17**
 - GitHub: [@emers0n17](https://github.com/emers0n17)
-- LinkedIn: [Emerson Silva](https://linkedin.com)
 
 ## 🙏 Agradecimentos
 

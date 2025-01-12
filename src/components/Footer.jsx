@@ -144,7 +144,7 @@ function Footer() {
               }}
             />
             <Typography variant="body2" sx={{ fontWeight: 500 }}>
-              por emers0n17
+              por Emerson Covane
             </Typography>
           </Box>
         </Box>
